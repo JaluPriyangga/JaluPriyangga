@@ -1,5 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Dionisius Arito Jalu Priyangga</h1>
 <h3 align="center">A student from Indonesia who passionate in programming and design.</h3>
+<p align = "Center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&rotate=180" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&rotate=180" />
+</p>
 
 - 🔭 I’m currently Studying at **Information Technology Major, Brawijaya University**
 
